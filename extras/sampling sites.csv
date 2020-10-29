@@ -1,0 +1,589 @@
+x_rounded,y_rounded,Epoch,Database,Site
+-9.200000000000001,38.85,Pleistocene,RPDE,Pego do Diabo
+-9.15,38.85,Pleistocene,RPDE,Pego do Diabo
+-9,52.650000000000006,Holocene,RPDE,Edenvale Cave
+-9,52.800000000000004,Pleistocene,RPDE,"Newhall Cave, Edenvale complex, Co. Clare"
+-8.8,39.75,Pleistocene,PACEA,Abrigo do Lagar Velho
+-8.75,39.75,Pleistocene,PACEA,Abrigo do Lagar Velho
+-8.6,52.2,Pleistocene,PACEA,"Castlepook Cave, Co. Cork"
+-8.55,52.25,Pleistocene,PACEA,"Castlepook Cave, Co. Cork"
+-8.450000000000001,52.2,Pleistocene,Lorenzen,"Foley Cave, Connaberry TD, Co. Clark"
+-8.450000000000001,54.050000000000004,Pleistocene,RPDE,"Plunkett Cave, Keash"
+-8.4,39.650000000000006,Pleistocene,PACEA,Gruta do Caldeirao
+-8.35,52.6,Holocene,RPDE,"Killuragh Cave, Co. Limerick"
+-7.75,52.1,Pleistocene & Holocene,RPDE,"Ballynamintra Cave, Co. Waterford"
+-7.6000000000000005,52.1,Pleistocene,Lorenzen,"Shandon Cave, Co. Waterford"
+-5.95,43.400000000000006,Pleistocene,PACEA,"Spain, Cueva de la Paloma"
+-5.9,43.35,Pleistocene,PACEA,Las Caldas
+-5.9,56.550000000000004,Holocene,EUROEVOL,"Isle of Risga, Scotland"
+-5.8500000000000005,43.35,Pleistocene,Lorenzen,Cueto de la Mina
+-4.95,58.1,Pleistocene & Holocene,Lorenzen,Reindeer cave
+-4.9,58.150000000000006,Holocene,EUROEVOL,Creag nan Uamh
+-4.8500000000000005,43.400000000000006,Pleistocene & Holocene,PACEA,"Spain, Cueva Cueto de la Mina"
+-4.7,51.650000000000006,Pleistocene,Lorenzen,Hoyle's Mouth
+-4.65,55.6,Holocene,EUROEVOL,"Shewalton, Scotland"
+-4.6000000000000005,43.35,Pleistocene,PACEA,Cueva de la Paloma
+-4.25,51.550000000000004,Pleistocene,Lorenzen,"Goat's Hole, Paviland"
+-3.95,43.300000000000004,Pleistocene & Holocene,PACEA,"Spain, El Castillo"
+-3.95,50.35,Holocene,PACEA,Shelter Cave (Kitley Cave)
+-3.9000000000000004,43.150000000000006,Pleistocene & Holocene,PACEA,La Garma
+-3.9000000000000004,55.2,Holocene,PACEA,"Green Graig, Pentland Hills"
+-3.7,43.300000000000004,Pleistocene & Holocene,PACEA,"Cueva de la Piélago, Mirones"
+-3.6500000000000004,50.5,Pleistocene & Holocene,PACEA,"England, Three Holes cave"
+-3.6,50.550000000000004,Pleistocene & Holocene,PACEA,"England, Pixies Hole Cave"
+-3.5500000000000003,50.45,Pleistocene,RPDE,Kent's Cavern
+-3.5,50.45,Pleistocene & Holocene,RPDE,"Kent's Cavern, Devon"
+-3.45,43.25,Pleistocene & Holocene,RPDE,"Spain, El Mirón Cave"
+-3.35,53.25,Pleistocene,Lorenzen,Cae Gwyn Cave
+-3.1500000000000004,43.5,Pleistocene & Holocene,PACEA,"Spain, Cueva del Pendo"
+-2.9000000000000004,51.300000000000004,Pleistocene,Lorenzen,"Picken's Hole, Somerset"
+-2.85,51.300000000000004,Pleistocene,RPDE,"Picken's Hole, Somerset"
+-2.85,52.45,Pleistocene,PACEA,"Condover, Shropshire"
+-2.75,51.25,Pleistocene & Holocene,PACEA,"Gough's Cave, Cheddar, Somerset"
+-2.75,51.300000000000004,Pleistocene & Holocene,PACEA,Chelms Combe
+-2.75,52.650000000000006,Pleistocene,PACEA,"Condover, Shropshire"
+-2.7,51.25,Pleistocene,PACEA,"Hyaena Den, Wookey Hole"
+-2.6500000000000004,51.85,Pleistocene,Lorenzen,King Arthur's Cave
+-2.6,51.25,Pleistocene,RPDE,"Hyaena Den, Wookey Hole"
+-2.5500000000000003,51.800000000000004,Pleistocene & Holocene,PACEA,King Arthur's Cave
+-2.5,43.050000000000004,Pleistocene,RPDE,Labeko Koba
+-2.35,43.25,Pleistocene,PACEA,Cueva de Ermitta
+-2.35,54.1,Holocene,PACEA,Kinsey Cave
+-2.3000000000000003,43.25,Holocene,PACEA,Cueva de Urtiaga
+-2.3000000000000003,43.300000000000004,Pleistocene,PACEA,Urtiaga
+-2.25,53.900000000000006,Pleistocene,PACEA,Victoria Cave
+-2.25,54.150000000000006,Pleistocene & Holocene,PACEA,Victoria Cave
+-1.9000000000000001,43.25,Pleistocene,PACEA,Aitzbitarte
+-1.85,53.1,Holocene,PACEA,"Elder Bush Cave, Wetton"
+-1.85,53.2,Pleistocene,PACEA,Fox Hole Cave
+-1.85,54.050000000000004,Pleistocene,Lorenzen,Stump Cross Cave
+-1.8,53.1,Holocene,PACEA,Ossom's Cave
+-1.7000000000000002,51.85,Pleistocene,Lorenzen,Little Rissington
+-1.6500000000000001,43,Pleistocene,PACEA,Cueva de Abauntz
+-1.5,43.25,Pleistocene & Holocene,PACEA,"Spain, Berroberria"
+-1.3,53.35,Holocene,EUROEVOL,Anston Stones Cave
+-1.2000000000000002,53.25,Pleistocene & Holocene,Lorenzen,"Pin Hole Cave, Creswell Crags"
+-1.2000000000000002,53.300000000000004,Pleistocene,Lorenzen,"Ash Tree Cave, Derbyshire"
+-1.2000000000000002,53.35,Holocene,EUROEVOL,Anston Stones Cave
+-1.1,43.550000000000004,Holocene,PACEA,"L'Abri Duruthy, Commune de Sorde-L'Abbaye, Landes"
+-1.05,43.550000000000004,Pleistocene,PACEA,"L'Abri Duruthy, Commune de Sorde-L'Abbaye, Landes"
+-1,51.150000000000006,Pleistocene,Lorenzen,"Conningbrook, Kent"
+-1,53.300000000000004,Holocene,PACEA,Dead Man's Cave
+-0.8,52.25,Pleistocene,Lorenzen,Northamptonshire
+-0.75,52.25,Pleistocene & Holocene,PACEA,Earls Barton
+-0.65,45.650000000000006,Pleistocene,PACEA,"Saint-Cesaire I, Roche-a-Pierrot"
+-0.6000000000000001,45.550000000000004,Pleistocene,PACEA,"Le Rond du Barry, Polinac"
+-0.5,45.050000000000004,Pleistocene,PACEA,Roc de Marcamps
+-0.5,45.75,Pleistocene,PACEA,Roche a Pierrot
+-0.35000000000000003,38.900000000000006,Pleistocene,PACEA,"Spain, Parpallo"
+-0.25,39,Pleistocene,PACEA,"Spain, Parpallo"
+-0.25,45.85,Pleistocene,PACEA,"Roc de Sers, Sers"
+0.15000000000000002,51.550000000000004,Holocene,PACEA,"Darent Gravels, Kent"
+0.2,44.7,Holocene,PACEA,"Le Morin, Gensac, Gironde"
+0.30000000000000004,43.050000000000004,Pleistocene & Holocene,PACEA,Espéche
+0.55,44.5,Holocene,RPDE,"Pech-Merle, Cabrerets, Lot"
+0.6000000000000001,45.300000000000004,Pleistocene,PACEA,"L'Abri du Pont-d'Ambon, Commune de Bourdeilles, Dodogne"
+0.75,44.85,Pleistocene & Holocene,PACEA,"Gare de Couze, Dordogne"
+0.9,44.85,Pleistocene & Holocene,PACEA,"Moulin-du-Roc, Saint-Chamassy"
+0.9,45.25,Pleistocene,PACEA,"Combe Saunière, Sarliac-sur-l’Isle"
+0.9500000000000001,44.95,Pleistocene,PACEA,La Ferrassie
+0.9500000000000001,45.1,Pleistocene,PACEA,Le Piage
+1,44.95,Pleistocene,PACEA,"Le Grand Abri de Laugerie-Haute-Ouest, Commune des Eynzies, Dordogne"
+1.1,44.85,Pleistocene,PACEA,Le Flagolet II
+1.1,44.95,Pleistocene,PACEA,"Comarque, Dordogne"
+1.1,45,Pleistocene,PACEA,Gr Conives [Thonay]
+1.1500000000000001,45.050000000000004,Pleistocene,PACEA,Laugerie Haute Est
+1.2000000000000002,44.800000000000004,Pleistocene,PACEA,"Grotte XVI, Cenac-et-Saint-Julien"
+1.3,44.95,Pleistocene,PACEA,"Le Grand Abri de la Madeleine, Commune de Tursac, Dordogne"
+1.55,44.85,Pleistocene,PACEA,"L'Abri de Combe-Cullier, Commune de Lacane, Lot"
+1.6500000000000001,42.85,Pleistocene,PACEA,"La Grotte des Eglises, Ariége"
+1.6500000000000001,44.050000000000004,Pleistocene & Holocene,PACEA,Bruniquel
+1.6500000000000001,44.6,Pleistocene,PACEA,"Grotte Pégourié, Caniac-du-Causse"
+1.75,50.800000000000004,Pleistocene,PACEA,Rinxent
+1.85,44.6,Pleistocene & Holocene,PACEA,"La Grotte de Sainte-Eulalie, Commune d'Espagnac, Lot"
+2,53,Pleistocene,Lorenzen,North Sea
+2.45,48.650000000000006,Pleistocene,PACEA,Etiolles
+2.5,48.6,Pleistocene,PACEA,"Canecaude I, Schicht II"
+2.6,42.1,Pleistocene,PACEA,"Roc de la Melca,  Sant Aniol de Finestres"
+2.7,48.400000000000006,Pleistocene & Holocene,PACEA,Cuzoul
+2.75,42.150000000000006,Pleistocene,Lorenzen,L'Arbreda B superior
+3,45.650000000000006,Pleistocene,CARD,Le Bay
+3.0500000000000003,48.35,Pleistocene & Holocene,RPDE,"Marolle-sur-Seine, Grand Canton"
+3.1,45.85,Pleistocene,CARD,Blanzat
+3.2,45.7,Pleistocene & Holocene,PACEA,Pont de Longues
+3.25,45.650000000000006,Pleistocene & Holocene,PACEA,"Durif á Enval, Vic-de-Comte"
+3.35,48,Pleistocene,RPDE,"Ferme de la Bouviere, Themes"
+3.5,45.150000000000006,Holocene,PACEA,"Blot, Cerzat"
+3.5,50.45,Pleistocene,PACEA,"Kent’s Cavern, Devon"
+3.85,45.050000000000004,Pleistocene,Stage 3,Polignac [Haute-Loire]
+3.95,48.7,Pleistocene,PACEA,La Colombière Rockshelter
+4,45.400000000000006,Pleistocene,EUROEVOL,"Cottier, Retournac"
+4.1000000000000005,44.400000000000006,Holocene,PACEA,"Colombier, Vallon-Pont-d'Arc"
+4.1000000000000005,45.050000000000004,Pleistocene,PACEA,"Moula, La Baume Moula-Guercy, Soyons"
+4.1000000000000005,48.2,Pleistocene,PACEA,Savoie (Grotte Jean-Pierre)
+4.1000000000000005,51.050000000000004,Pleistocene,Stage 3,Dendermonde
+4.3500000000000005,43.95,Pleistocene,PACEA,Gr. de Latrone [Ste. Anastasie]
+4.4,44.25,Pleistocene,PACEA,"Peyrehaute, Mejanne le Clap, Gard"
+4.45,44.35,Pleistocene,PACEA,"Gr. de La Baume d'Oullins (a.k.a. d'Oulen"") [Labastide-de-Virac]"
+4.5,55,Pleistocene,Lorenzen,North Sea
+4.55,43.900000000000006,Pleistocene & Holocene,PACEA,"La Salpetriere, Remoulins"
+4.55,43.95,Pleistocene,PACEA,"Grotte de la Salpêtrière, Remoulins-Gard"
+4.6000000000000005,50.400000000000006,Holocene,PACEA,Presles
+4.7,50.5,Pleistocene,RPDE,Spy Cave
+4.75,44.5,Pleistocene & Holocene,PACEA,"Aven des Iboussieres, Drome"
+4.75,45.95,Pleistocene,PACEA,Villefranche-sur-Saone
+4.75,46.150000000000006,Pleistocene,Lorenzen,Vergisson II
+4.75,46.300000000000004,Pleistocene,PACEA,Solutre
+4.75,50.1,Pleistocene,PACEA,Trou des Blaireux
+4.800000000000001,45.35,Pleistocene,Stage 3,Le Stade quarry [Salaise sur Sanne]
+4.8500000000000005,50.35,Pleistocene,PACEA,Trou de Burnot
+4.9,50.2,Pleistocene,RPDE,Trou Magrite
+4.9,50.25,Pleistocene,PACEA,"Trou Magrite, Pont-á-Lesse"
+4.95,50.2,Pleistocene & Holocene,PACEA,"Belgium, Trou Dubois"
+5,50.45,Pleistocene,RPDE,Goyet
+5.050000000000001,50.5,Pleistocene,RPDE,Scladina Cave
+5.2,46.650000000000006,Pleistocene,PACEA,Grotte de Chaumois-Boivin (Blois-sur-Seille)
+5.25,45.050000000000004,Pleistocene,PACEA,Les Gisements de Saint-Nazaire-en-Royans
+5.25,50.050000000000004,Pleistocene,PACEA,Le Pre des Forges
+5.300000000000001,46.6,Pleistocene,Lorenzen,La Croze
+5.4,45.050000000000004,Pleistocene,Stage 3,Grotte de la Balme Rousse [Choranche]
+5.4,46.1,Pleistocene & Holocene,PACEA,"Abri Gay, Niveau Azilien, Pocin, Ain"
+5.45,46.400000000000006,Pleistocene,EUROEVOL,La Baume
+5.5,46.75,Pleistocene,PACEA,"Grappin, Arlay"
+5.550000000000001,45.150000000000006,Pleistocene & Holocene,EUROEVOL,"La Passagere, Meaudre, Isere"
+5.550000000000001,47.150000000000006,Pleistocene,Lorenzen,Gr de la Mere Clochette
+5.7,50.45,Holocene,PACEA,Grotte Remouchamps
+5.7,50.5,Holocene,PACEA,Remouchamps
+5.7,50.550000000000004,Pleistocene,PACEA,"Belgium, Trou Walou"
+5.75,47.150000000000006,Pleistocene,RPDE,"Abri des Cabones, Ranchot"
+5.800000000000001,45.5,Pleistocene & Holocene,PACEA,"La Fru, Saint-Christophe"
+5.800000000000001,45.7,Pleistocene,PACEA,Grotte de Bange
+5.9,44.550000000000004,Pleistocene,RPDE,Grotte Chauvet
+5.9,45.45,Pleistocene & Holocene,PACEA,La Balme a Collomb [Entremont-les-Vieux]
+5.95,47.5,Pleistocene,EUROEVOL,Baume Noire
+6,47.1,Pleistocene,RPDE,Ranchot
+6.15,47.35,Pleistocene,PACEA,"Rigny, Doubs"
+6.15,47.6,Pleistocene,PACEA,Grotte de la Baume
+6.25,49.5,Pleistocene,PACEA,Altwies
+6.25,49.6,Pleistocene,PACEA,Oetrange
+6.3500000000000005,45.900000000000006,Pleistocene,CARD,Auzary-Thones
+6.3500000000000005,47.5,Holocene,PACEA,Rochedane
+6.45,49.550000000000004,Pleistocene,PACEA,Munzingen
+6.65,50.25,Pleistocene,Stage 3,Magdalenahohle
+6.7,51.5,Pleistocene,Lorenzen,Herne West
+6.75,47.5,Pleistocene,PACEA,"La Roche de Bavans, Bavans"
+6.75,52.25,Pleistocene,Stage 3,Orvelte
+6.800000000000001,50.650000000000006,Holocene,EUROEVOL,Kartstein
+6.95,47,Pleistocene,PACEA,"Vaumarcus, Neuchatel"
+7.4,50.45,Pleistocene & Holocene,PACEA,Gönnersdorf
+7.6000000000000005,47.400000000000006,Pleistocene,PACEA,Kastelhöhle-Nord
+7.6000000000000005,50.400000000000006,Holocene,PACEA,Urbar
+7.75,47.900000000000006,Pleistocene & Holocene,PACEA,Teufelsbrucke
+8.15,50.400000000000006,Pleistocene,Lorenzen,Wildscheuer cave
+8.3,50.2,Pleistocene,Lorenzen,Wiesbaden-Igstadt
+8.35,44.150000000000006,Pleistocene,PACEA,Arene Candide Cave
+8.4,52.45,Holocene,PACEA,Lemförde
+8.700000000000001,47.75,Pleistocene,RPDE,Kesslerloch Cave
+8.8,47.85,Pleistocene & Holocene,RPDE,Petersfels
+8.8,56.300000000000004,Pleistocene,Lorenzen,Stengardens Grusgrav 2
+8.85,47.95,Pleistocene,Lorenzen,Petersfels
+8.9,47.85,Pleistocene,PACEA,Petersfels
+9,44.400000000000006,Pleistocene,Lorenzen,"Arene Candidae, Schicht P7"
+9.15,48.1,Pleistocene,RPDE,Zigeunerfels Cave
+9.200000000000001,55.300000000000004,Pleistocene,RPDE,"Slotseng 9, Haderslev"
+9.35,53.150000000000006,Pleistocene & Holocene,PACEA,Stellmoor
+9.55,54.650000000000006,Holocene,RPDE,"Klappholz, Schleswig-Flensburg"
+9.65,48.400000000000006,Pleistocene,RPDE,"Sirgenstein, Ach Valley"
+9.700000000000001,61.650000000000006,Pleistocene,Lorenzen,Kvam
+9.75,48.400000000000006,Pleistocene,RPDE,Hohle Fels
+9.75,57.400000000000006,Holocene,RPDE,Nørre Lyngby
+9.8,48.400000000000006,Pleistocene,RPDE,Geiβenklösterle
+9.850000000000001,49.1,Pleistocene,PACEA,"Hohlenstein Stadel, Asselingen"
+9.9,51.45,Pleistocene,RPDE,Abri Stendel
+10,51.45,Pleistocene & Holocene,RPDE,Bettenroder Berg IX
+10.15,48.5,Pleistocene,PACEA,Hohlenstein-Stadel IV
+10.15,48.550000000000004,Pleistocene,PACEA,Hohlenstein-Stadel IV
+10.15,48.6,Pleistocene,PACEA,Malerfels
+10.15,53.650000000000006,Pleistocene,PACEA,Meiendorf
+10.15,53.800000000000004,Holocene,CARD,Nahe LA 11
+10.200000000000001,48.550000000000004,Pleistocene,RPDE,"Vogelherd, Lone Valley"
+10.200000000000001,53.650000000000006,Pleistocene & Holocene,RPDE,Poggenwisch
+10.350000000000001,55.150000000000006,Holocene,RPDE,Arreskov
+10.350000000000001,56.75,Pleistocene,Lorenzen,Hadsund
+10.600000000000001,48.85,Pleistocene,PACEA,Kaufertsberg
+10.8,53.85,Holocene,PACEA,Lüdersdorf
+10.8,56.35,Pleistocene,PACEA,Rosmos 1
+10.850000000000001,49.400000000000006,Pleistocene,PACEA,Buttentalhöhle
+10.850000000000001,51.75,Pleistocene,Lorenzen,Baumannshöhle
+11.4,52.300000000000004,Pleistocene,PACEA,Teufelsküche
+11.55,45.400000000000006,Pleistocene,PACEA,"Grotta di Paina, Mossano"
+11.55,50.650000000000006,Pleistocene,PACEA,Kniegrotte
+11.600000000000001,44.85,Pleistocene,Lorenzen,Settepolesini di Bodeno
+11.600000000000001,50.85,Pleistocene,PACEA,"Oelknitz, Thuringia"
+11.65,50.85,Pleistocene,PACEA,"Oelknitz, Thuringia"
+11.75,48.95,Pleistocene & Holocene,PACEA,Kastlhanghöhle
+11.8,48.95,Pleistocene,PACEA,Klausenhöhlen
+11.850000000000001,48.900000000000006,Pleistocene,PACEA,Klausenhöhlen
+12.15,49.050000000000004,Pleistocene,PACEA,Gönnersdorf
+12.200000000000001,56,Pleistocene,Lorenzen,"Bannebjerg, Helsinge, N.SjŠlland"
+12.350000000000001,55.5,Pleistocene,PACEA,Køge Bugt 1
+12.350000000000001,56,Pleistocene,Lorenzen,Ostrupgard
+12.55,54.150000000000006,Pleistocene & Holocene,RPDE,"Endingen, Nordvorpommern"
+12.700000000000001,50.85,Pleistocene,RPDE,Oelknitz
+13.200000000000001,55.6,Holocene,PACEA,Bara
+13.3,55.6,Holocene,RPDE,Hässleberga H1:167
+13.450000000000001,55.95,Holocene,PACEA,Mickelsmosse
+13.5,55.75,Holocene,Lorenzen,Harlosa
+14,45.75,Pleistocene,PACEA,Zupanov Spodmol
+14,46.150000000000006,Pleistocene,PACEA,Divje babe I
+14.65,46.45,Pleistocene,RPDE,Potocka zijalka
+14.75,46.7,Pleistocene,EUROEVOL,Griffener Tropfsteinhöhle
+15.350000000000001,47.2,Pleistocene,PACEA,Große Peggauerwandhöhle
+15.350000000000001,47.25,Pleistocene,PACEA,Tunnelhöhle
+15.4,48.300000000000004,Pleistocene,Lorenzen,Willendorf II
+15.600000000000001,41.650000000000006,Pleistocene,PACEA,Grotta Paglicci
+15.700000000000001,48.5,Pleistocene,Lorenzen,Schönberg am Kamp
+16.1,48.7,Pleistocene,PACEA,Alberndorf
+16.6,49.45,Pleistocene,RPDE,"Kulna Cave, Moravian Karst"
+16.75,49.400000000000006,Holocene,PACEA,"Kulna 4, Moravie"
+17.2,49.650000000000006,Pleistocene & Holocene,RPDE,"Kulna Cave, Moravian Karst"
+17.75,59.2,Pleistocene,Lorenzen,Ronninge 1
+17.95,50.050000000000004,Pleistocene,RPDE,Dzierżyslaw
+18,50.050000000000004,Pleistocene & Holocene,RPDE,Dzierżyslaw
+18.05,59.300000000000004,Pleistocene,Lorenzen,Dosebacka
+18.1,46.85,Pleistocene,RPDE,"Sagvar, Balaton"
+18.6,47.75,Pleistocene,PACEA,Mogyrosbanya
+18.75,47.800000000000004,Pleistocene,RPDE,Esztergom-Gyurgyalag
+19.400000000000002,50.2,Pleistocene,PACEA,Grotte de Maszyce
+19.450000000000003,50.5,Pleistocene,RPDE,Deszczowa Cave
+19.75,50.2,Pleistocene,RPDE,Nietoperzowa cave
+19.8,50.150000000000006,Pleistocene & Holocene,RPDE,Mamutowa cave
+19.900000000000002,50.050000000000004,Pleistocene,PACEA,"Kraków Spadzisda B ""Workshops"""
+19.900000000000002,50.1,Pleistocene,Lorenzen,Mammoth cave
+19.950000000000003,50.050000000000004,Pleistocene,Lorenzen,"Kraków, Spadzista Street"
+20.05,47.1,Pleistocene,RPDE,Jaszfelsosentgyorgy-Szekesdulo
+20.150000000000002,49.400000000000006,Pleistocene,Lorenzen,Oblazowa Cave
+20.5,50.85,Pleistocene,Lorenzen,Raj cave
+20.55,48,Pleistocene,PACEA,Balla Cave
+20.75,40.050000000000004,Pleistocene,PACEA,"Klithi, Konitsa plain, Zagori"
+20.900000000000002,39.650000000000006,Pleistocene,PACEA,Kastritsa
+21.400000000000002,55.300000000000004,Pleistocene,Lorenzen,Viliya River (Neman)
+21.8,45.050000000000004,Pleistocene,RPDE,Peştera cu Oase Cave
+22.05,44.550000000000004,Holocene,RPDE,Lepenski Vir S47
+22.25,43.6,Pleistocene,RPDE,Baranica Cave
+23.1,45.6,Pleistocene,PACEA,Pestera Cioclovina Uscata
+23.5,63.800000000000004,Pleistocene,Lorenzen,Lohtaja
+23.75,45.2,Pleistocene,RPDE,"Pestera Muierii, Baia de Fier"
+24,49.85,Pleistocene,PACEA,Sagaidak I
+24.950000000000003,60.45,Pleistocene & Holocene,RPDE,Espoo
+25,63.550000000000004,Pleistocene,Stage 3,Haapajari
+25.200000000000003,60.400000000000006,Pleistocene,Lorenzen,"Helsinki, Toolo"
+25.400000000000002,60.35,Pleistocene,Lorenzen,"Helsinki, Herttoniemi"
+25.85,65.10000000000001,Pleistocene,Stage 3,Lijoki
+26.85,48.2,Pleistocene,PACEA,"Coto Miculinti, Cotuska"
+27,46,Pleistocene,PACEA,"Garla Mare, Cotu Mieulinti"
+27,48,Pleistocene,RPDE,"Crasnaleuca, Cotusca"
+27.150000000000002,48.1,Pleistocene,Lorenzen,Brinzena
+27.150000000000002,48.25,Pleistocene,Lorenzen,Ciuntu
+27.450000000000003,48.45,Pleistocene,Lorenzen,Molodovo
+27.5,56.6,Pleistocene,Lorenzen,Leski
+27.6,48.300000000000004,Pleistocene,PACEA,Basarabia
+28.3,48.25,Pleistocene,PACEA,Cosauti
+28.35,48.2,Pleistocene,RPDE,Kosautsy/Cosautsi/Cosaoutsy
+28.6,45.800000000000004,Pleistocene,Lorenzen,"Kirillovka, site in Kiev"
+28.6,62.85,Pleistocene,Lorenzen,"Nilsia, Syvari"
+28.700000000000003,53.800000000000004,Pleistocene,Lorenzen,Yudinovo
+29.25,50.550000000000004,Pleistocene,Lorenzen,Randomyshl
+30.950000000000003,52.85,Pleistocene,Lorenzen,"Berdyzh, east bank of Sozh river, 500 m south of Podluzhye"
+31.1,47.650000000000006,Pleistocene,Lorenzen,Anetovka
+31.1,59.1,Pleistocene,Lorenzen,Lyuban'
+31.400000000000002,49.650000000000006,Pleistocene,Lorenzen,Mezhirich
+32,54.800000000000004,Pleistocene,Lorenzen,Smolensk Region
+32.050000000000004,49.45,Pleistocene,CARD,"Mezhirich, Mezhiritch, Mezeritch, Mejeriche, Mejiriche"
+32.65,50.050000000000004,Pleistocene,PACEA,Dobranichevka
+32.800000000000004,50.150000000000006,Pleistocene,PACEA,Gontsy
+33,43,Pleistocene,Lorenzen,"Kostyonki Site, near Voronezh"
+33.1,51.75,Pleistocene,Lorenzen,Mezin
+33.1,51.85,Pleistocene,PACEA,"Chulatovo I, northern bank of Desna river"
+33.2,52.150000000000006,Pleistocene,Lorenzen,Pogon
+33.25,52,Pleistocene,Lorenzen,Novgorod-Severskii
+33.300000000000004,52.650000000000006,Pleistocene,PACEA,Yudinkovka
+33.6,53.150000000000006,Pleistocene,RPDE,Eliseevichi
+33.75,53.2,Pleistocene,PACEA,Eliseevichi
+34,45,Holocene,RPDE,"Abri San-Koba, Krim"
+34.1,53.35,Pleistocene,Lorenzen,Khotylevo II
+34.300000000000004,53.2,Pleistocene,Lorenzen,Khotylevo II
+34.35,53.35,Pleistocene,Lorenzen,Timonovka I
+34.5,52.150000000000006,Pleistocene,RPDE,Sevsk
+35.5,51.75,Pleistocene,PACEA,Avdeevo
+35.95,51.050000000000004,Pleistocene,PACEA,"Peny II, Kursk Region"
+38,50,Pleistocene,Lorenzen,"Sungir', Vladimir Region"
+39,51.300000000000004,Pleistocene & Holocene,Lorenzen,Kostienki VIII [Tel'manskaya site]
+39,51.400000000000006,Pleistocene & Holocene,PACEA,Kostenki 2
+39.050000000000004,51.35,Pleistocene,PACEA,Kostienki VI
+39.050000000000004,51.400000000000006,Pleistocene,Lorenzen,Kostenki
+39.45,55.25,Pleistocene,Lorenzen,Zaraisk
+40.5,56.150000000000006,Pleistocene,Lorenzen,Sungir' [Vladimir]
+40.5,56.2,Pleistocene,RPDE,Kostenki
+40.85,58,Pleistocene,Lorenzen,Ustye River
+41.5,53,Pleistocene,Lorenzen,Tsna R.
+42.150000000000006,56.300000000000004,Pleistocene,Lorenzen,"Vladimir Region, Vyazniki"
+42.75,60,Pleistocene,Lorenzen,"Vologda Region, Tot'ma District, Sukhona R. tributary'"
+43.7,58.6,Pleistocene,Lorenzen,Name not given
+44.800000000000004,54.6,Pleistocene,Lorenzen,Irset R.
+48.050000000000004,80.80000000000001,Holocene,Lorenzen,"Alexander Island, Frans Josef Land"
+49.1,54,Pleistocene,Lorenzen,"Cheremshan R., Tunguz Peninsula"
+51.300000000000004,53.050000000000004,Pleistocene,Lorenzen,Bogatoe
+53.25,56.85,Pleistocene,Lorenzen,Lower Kama River
+53.800000000000004,56.45,Pleistocene,Lorenzen,Sarapul
+55.550000000000004,55.400000000000006,Pleistocene,Lorenzen,Birsk
+55.900000000000006,54.900000000000006,Pleistocene,CARD,"Gornovo, Gornova"
+57.400000000000006,65,Pleistocene,Lorenzen,Byzovaya
+57.45,59.25,Pleistocene,Lorenzen,Urals Central
+57.45,65,Pleistocene & Holocene,RPDE,Byzovaya
+57.650000000000006,60.550000000000004,Pleistocene,Lorenzen,Ural Chusovaya river
+57.75,59.400000000000006,Pleistocene,Lorenzen,"Urals (middle),Tayn Cave"
+58,61.6,Pleistocene,Lorenzen,Medvezhya Cave
+58.150000000000006,58.2,Pleistocene,RPDE,"Grotto Kumishsky, Urals"
+58.150000000000006,62.050000000000004,Pleistocene,Lorenzen,"Medvezhya Cave, Urals"
+58.2,58.150000000000006,Pleistocene,RPDE,Kumyshanskaya Cave
+58.650000000000006,62,Pleistocene & Holocene,Lorenzen,Medvezhya Cave
+59,57.6,Holocene,Lorenzen,Urals Central
+61.400000000000006,54.1,Pleistocene,Lorenzen,Troitskaya
+62.2,59.25,Pleistocene,Lorenzen,"West Siberia, southwest"
+62.25,59.400000000000006,Pleistocene,RPDE,Berezovy Mys
+62.25,59.5,Pleistocene,RPDE,Lyzhin Mys
+62.300000000000004,59.35,Pleistocene,RPDE,Demin Mys
+62.300000000000004,59.400000000000006,Pleistocene,RPDE,Evalga
+62.300000000000004,59.5,Pleistocene,RPDE,Balakina
+62.35,59.400000000000006,Pleistocene & Holocene,RPDE,OLP
+62.35,59.45,Pleistocene,RPDE,Neftebaza
+62.400000000000006,59.300000000000004,Pleistocene,RPDE,Berezovy Mys
+62.400000000000006,66.55,Pleistocene,CARD,Mamontovaya Kur'ya - Mamontova Kur'ya
+65.9,56,Pleistocene,RPDE,Shikaevka 2
+66.2,57.7,Pleistocene,Lorenzen,Tavda River
+66.5,71,Pleistocene,Lorenzen,Yamal Peninsula
+67,66,Pleistocene,Lorenzen,430th KM
+68.55,61.050000000000004,Pleistocene,RPDE,Lugovskoye
+69,58,Pleistocene,Lorenzen,"West Siberia, center"
+69.10000000000001,68.15,Holocene,Lorenzen,Yamal
+69.75,54.25,Pleistocene,PACEA,Gagarino
+70.3,57.95,Pleistocene,Lorenzen,"Right bank of the Irtysh R. near Ishchetskaya village, Stn. 9-640/1"
+70.5,54.85,Pleistocene,Lorenzen,Uspenka
+71,70,Pleistocene & Holocene,Lorenzen,Yamal
+72,70,Holocene,Lorenzen,Yamal
+73.10000000000001,55,Pleistocene,Lorenzen,Irtysh River
+73.15,55.1,Pleistocene,RPDE,Kulachye
+74.5,57,Pleistocene,Lorenzen,Irtysh-3
+75.45,70.10000000000001,Pleistocene,Lorenzen,Parisento River
+75.5,70.3,Pleistocene,Lorenzen,Yuribei River
+77,61,Pleistocene,Lorenzen,Agansky Uval
+77.30000000000001,70.3,Pleistocene,RPDE,Nizhny Tagil
+79.2,71,Pleistocene,Lorenzen,Yambuto Lake
+80.2,54.5,Pleistocene,RPDE,Volchya Griva
+80.2,NA,Holocene,RPDE,Volchya Griva
+82.05000000000001,71.9,Pleistocene,RPDE,Yenisei Bay
+82.80000000000001,51.6,Pleistocene,Lorenzen,Logovo Gieny Cave
+83,51.300000000000004,Pleistocene,Lorenzen,Strashnaya cave
+83.5,57.75,Pleistocene,RPDE,Mogochino
+83.85000000000001,56,Pleistocene,Lorenzen,"Voronovo, Ob' R."
+84.85000000000001,54.550000000000004,Pleistocene,Lorenzen,"Salair Highland, Zalesovo Distr., Kamenka R. (Novokamenka, Vydrikha R.)"
+85.65,52.650000000000006,Pleistocene,Lorenzen,Biya River
+86.7,52.85,Pleistocene,RPDE,"Ushlep 6, layer 8"
+86.80000000000001,52,Pleistocene,Lorenzen,Isha
+87,71.60000000000001,Pleistocene,Lorenzen,Agapa R
+87.95,55.900000000000006,Pleistocene,Lorenzen,Shestakovo
+88,55.650000000000006,Pleistocene,RPDE,Shestakovo
+88,73,Pleistocene,Lorenzen,Pyasina River
+90,55.050000000000004,Pleistocene,Lorenzen,Chulym River
+90.95,54.150000000000006,Pleistocene,RPDE,Dvuglazka Cave
+90.95,54.85,Pleistocene,RPDE,Yanova
+91,55,Pleistocene,Lorenzen,Minusinsk Depression near Yanovo village (Novoselovo)
+91.05000000000001,55.050000000000004,Pleistocene,Lorenzen,Tarachikha
+91.35000000000001,54.550000000000004,Pleistocene,Lorenzen,"Eastern Sayan, Bellykskoe Belogorye, ""Chalay"" Mnt. ('Bellyk)"
+91.65,55.2,Pleistocene,RPDE,Ust-Izhul
+91.95,55.2,Pleistocene,Lorenzen,Middle Yenisei River
+92,53.550000000000004,Pleistocene,Lorenzen,Middle Yenisei River
+92.4,55.95,Pleistocene,Lorenzen,Listvenka
+92.45,55.35,Pleistocene,RPDE,Konzhul
+92.5,56.1,Pleistocene,RPDE,"Afontova Gora 2, layer 2"
+92.75,56,Pleistocene,Lorenzen,West Beringia
+93.10000000000001,74.05,Pleistocene,Lorenzen,"Baikura-Neru Bay, Lake Taimyr"
+93.5,56.800000000000004,Pleistocene,RPDE,Druzhinikha
+96.05000000000001,73.10000000000001,Pleistocene,Lorenzen,Logata River
+96.75,79.45,Pleistocene,Lorenzen,Oktyabrskoi Revolutsii Island
+96.9,79.5,Pleistocene,Lorenzen,Oktyabrskoi Revolutsii Island
+97,73.3,Pleistocene,Lorenzen,Logata River
+97,73.35000000000001,Pleistocene,Lorenzen,Logata River
+97.9,73.3,Pleistocene,Lorenzen,Kubalakh River
+98.75,73.10000000000001,Pleistocene,Lorenzen,Nemu-Dika-Tarida River
+99.80000000000001,76,Pleistocene,Lorenzen,Lower Taimyr R
+100.5,73.55,Pleistocene,Lorenzen,Bolshaya Balachnya River
+100.5,74.55,Pleistocene,Lorenzen,Sabler Cape
+100.55000000000001,74.55,Pleistocene,RPDE,"Taimyr L, Cape Sabler"
+100.9,70.95,Pleistocene,Lorenzen,Maymecha River
+101,74,Pleistocene & Holocene,Lorenzen,Taimyr
+101.30000000000001,59,Pleistocene,Lorenzen,Middle Angara River
+101.60000000000001,74.15,Pleistocene,Lorenzen,Baskura Peninsula
+101.65,74.55,Pleistocene,Lorenzen,"Taimyr Lake, Cape Sabler"
+101.80000000000001,75.65,Pleistocene,Lorenzen,Trautfetter River
+101.95,73.85000000000001,Pleistocene,Lorenzen,Bederbo-Tarida River
+102,74.05,Pleistocene,Lorenzen,Baskura Peninsula
+102.15,73.05,Pleistocene,Lorenzen,Bederbo-Tarida River
+102.65,53.75,Pleistocene,Lorenzen,Unga R.
+103,72.15,Pleistocene,Lorenzen,Khatanga River
+103.05000000000001,55.45,Pleistocene,RPDE,Ozernaya Balya
+103.5,53,Pleistocene,RPDE,Malta
+103.55000000000001,52.85,Pleistocene,Lorenzen,Mal'ta
+103.60000000000001,51.900000000000006,Pleistocene,Lorenzen,Siberia Baikal area
+104,72.10000000000001,Pleistocene,Lorenzen,Ulakhan-Yuriakh River
+104,73.5,Pleistocene,Lorenzen,Bolshaya Balachnya River
+104.25,77.75,Holocene,Lorenzen,Chelyuskin Cape
+105,73.5,Pleistocene,Lorenzen,Bolshaya Balachnya River
+105,75.3,Pleistocene,Lorenzen,Bolshaya Balachnya River
+105.80000000000001,54,Pleistocene,Lorenzen,Lena Upper
+105.80000000000001,73.55,Pleistocene,Lorenzen,Bolshaya Balachnya River
+106,72.4,Pleistocene,Lorenzen,Popygai R
+106.30000000000001,74.8,Pleistocene,Lorenzen,Bikada R
+106.4,50.400000000000006,Pleistocene,Lorenzen,Kyakhta
+106.45,50.35,Pleistocene,Lorenzen,Kyakhta
+107.25,51.25,Pleistocene,Lorenzen,"Buryat-Mongol ASSR, Tarbagatay District, Zhirimka R. N of Barykino village"
+107.4,50.400000000000006,Pleistocene,Lorenzen,Tamir
+107.4,63.300000000000004,Pleistocene,Lorenzen,Nizhnyaya Tunguska R. 1 km downstream the  Lyuku R. mouth
+107.60000000000001,51.85,Pleistocene,RPDE,Kamenka Buryatiya
+108,51,Pleistocene,Lorenzen,Transbaikalia
+108.15,51.85,Pleistocene,RPDE,"Kamenka 1, unit A"
+108.30000000000001,51.2,Pleistocene,Lorenzen,"Buryat-Mongol ASSR, Tarbagatay District, Nikol'skaya R. (Nikolskaya)"
+108.5,50.900000000000006,Pleistocene,RPDE,Kandabaevo
+108.75,50.35,Pleistocene,Lorenzen,"Chikoy R.valley, Chikoy"
+109.15,38.75,Pleistocene,Lorenzen,"Salawusu, Ordos, Nei Menggu"
+109.5,51.5,Pleistocene,Lorenzen,Khilok river
+109.85000000000001,52.2,Pleistocene,RPDE,Khotyk
+110.10000000000001,54,Pleistocene,Lorenzen,Barguzin R.
+110.25,73.35000000000001,Pleistocene,Lorenzen,Semieriskyai River
+110.5,76.75,Holocene,Lorenzen,Pronchishchev Coast
+110.85000000000001,72.15,Pleistocene,Lorenzen,Anabarka River
+111,72.10000000000001,Pleistocene,Lorenzen,Anabarka River
+111.85000000000001,57.2,Pleistocene,Lorenzen,Niryakyan River
+111.95,53.650000000000006,Pleistocene,Lorenzen,Vitim R. near Dzhilinda mouth
+112.25,57.25,Pleistocene,Lorenzen,Kaverga River
+113.80000000000001,60,Pleistocene,Lorenzen,"East Siberia, south"
+114,60.800000000000004,Pleistocene,Lorenzen,Nyuya R.
+114,73.55,Pleistocene,Lorenzen,Anabar Gulf
+116,52.1,Pleistocene,Lorenzen,Ostrovki
+116,67.35000000000001,Pleistocene,Lorenzen,Tyung
+116,73.60000000000001,Pleistocene,Lorenzen,Lygiy-Yuryue River
+116.10000000000001,50.75,Pleistocene,Lorenzen,Mirnaya
+116.15,73.65,Pleistocene,Lorenzen,Urasalakh River
+116.80000000000001,59.400000000000006,Pleistocene,RPDE,"Khairegas, Yukutia"
+117,63,Pleistocene,Lorenzen,"Amakin Exped., part. 126, Sokolinyy Site"
+117,73.65,Pleistocene,Lorenzen,Yunkyur-Seene River
+117.2,73.60000000000001,Pleistocene & Holocene,Lorenzen,Laptev Sea Coast
+117.60000000000001,49.35,Pleistocene,Lorenzen,Zhalainuoer
+118.5,73.55,Pleistocene,Lorenzen,Terpyi-Tumus Peninsula
+119,71.4,Pleistocene,Lorenzen,Bur
+119,73,Pleistocene,Lorenzen,Amydai River
+119.2,50.1,Pleistocene,Lorenzen,"Argun' R., upstr  KUTI (KUZHI?) village"
+125,70,Pleistocene,Lorenzen,Lower Lena River
+126,70.2,Pleistocene,Lorenzen,"Lena R., left bank 0,5 km down Govorovo"
+126.05000000000001,46.45,Pleistocene,Lorenzen,Hongqi site
+127.30000000000001,71.05,Pleistocene,Lorenzen,Chekurovka
+128.1,52.45,Pleistocene,Lorenzen,Uralovka
+128.4,72.45,Pleistocene,Lorenzen,Sobo-Sise Island
+128.70000000000002,53,Pleistocene,Lorenzen,Oktyabrsky
+128.9,43.1,Pleistocene,Lorenzen,Mingyuegou
+129.4,71.8,Pleistocene,Lorenzen,Anabaro-Olenek interfluve
+129.70000000000002,62,Pleistocene,Lorenzen,Yakutsk
+131,70.45,Pleistocene,Lorenzen,Laptev Sea Coast
+131.8,44.150000000000006,Pleistocene,Lorenzen,Khorol
+131.85,63.300000000000004,Pleistocene,Lorenzen,"Aldan R., Tanda R. mouth (Tanda)"
+132.45000000000002,62,Pleistocene,Lorenzen,Churapcha
+132.65,59.25,Pleistocene,RPDE,"Dyuktai Cave, layer 7a"
+132.75,66,Pleistocene,Lorenzen,"Yana River headwaters, Verkhoyansk District (Sartang River, Loc.3821)"
+133,42.85,Pleistocene,RPDE,Geographical Society Cave
+133,62.400000000000006,Pleistocene,Lorenzen,"Khayrgas, layer 6"
+133,63.400000000000006,Pleistocene,Lorenzen,Aldan
+133.75,63.150000000000006,Pleistocene,Lorenzen,Ikhine 2
+134,63,Pleistocene,Lorenzen,"Aldan R., Mamontova Gora"
+134.1,62.900000000000006,Pleistocene,Lorenzen,"Aldan R., Mamontova Gora"
+134.15,62.900000000000006,Pleistocene,Lorenzen,"Aldan R., Mamontova Gora"
+134.25,70.5,Pleistocene,Lorenzen,Kular
+134.5,62.800000000000004,Pleistocene,Lorenzen,Aldan R. near Krest-Khaldzhay vill.
+135,69,Pleistocene,Lorenzen,Yana
+135.35,70.10000000000001,Pleistocene,Lorenzen,Mus-Khaya
+135.4,70.65,Pleistocene,RPDE,Yana RHS
+135.4,70.7,Pleistocene,Lorenzen,"Yana, Mus-Khaya"
+135.6,75.35000000000001,Holocene,Lorenzen,Novosibirsk Islands
+135.85,75.65,Pleistocene,Lorenzen,Belkovsky Island
+136,71,Pleistocene,Lorenzen,Yana R. downstream
+136.20000000000002,70.75,Pleistocene,Lorenzen,"Kazachye, near the village"
+138,75,Pleistocene,Lorenzen,Kotelny Island
+138.45000000000002,74.75,Holocene,Lorenzen,Novosibirsk Islands
+139.75,72.35000000000001,Pleistocene,Lorenzen,Shirokostan Peninsula
+140,75.3,Pleistocene,Lorenzen,Kotelny Island
+140.35,74.25,Pleistocene,Lorenzen,Novosibirsk Islands
+141.1,72.85000000000001,Pleistocene,Lorenzen,Duvanny Yar
+141.3,73.35000000000001,Pleistocene,Lorenzen,"Novosibirsk Islands, Zimovye R., Siberia"
+141.35,73.3,Pleistocene,Lorenzen,"Bol. Lyakhovskiy Isl., New Siberian Islands"
+141.35,73.35000000000001,Pleistocene,Lorenzen,Bolshoy Lyakhovsky Island
+141.65,72.7,Pleistocene,Lorenzen,Logata River
+142.4,67.95,Pleistocene,Lorenzen,Selennyakh
+142.5,72.10000000000001,Pleistocene,Lorenzen,"Shirokostan Peninsula., 10 km N of Nerpichiy Cape"
+142.9,70.7,Pleistocene,Lorenzen,"Khroma River, Loc. 4012 (OK) = 737 (TB)"
+143.15,71.15,Pleistocene,Lorenzen,"Yana-Indigirka lowland, Siberia"
+144,75.25,Pleistocene,Lorenzen,Faddeevsky Island
+144,75.5,Pleistocene,Lorenzen,Faddeevsky Island
+144.05,70.5,Pleistocene,RPDE,Berelekh River
+146.6,68.2,Pleistocene,Lorenzen,Badyarikha
+146.75,67.65,Pleistocene,Lorenzen,Orto-Tirekhtyakh.R.
+146.85,69.3,Pleistocene,Lorenzen,"Indigirka, right bank"
+147.05,68.60000000000001,Pleistocene,Lorenzen,"Tirekhtyakh, Indigirka River"
+147.1,68.5,Pleistocene,Lorenzen,"Tirekhtyakh, Indigirka River"
+147.1,68.60000000000001,Pleistocene,Lorenzen,Terekhtyakh River
+147.4,70.55,Pleistocene,Lorenzen,Indigirka
+147.6,69.85000000000001,Pleistocene,Lorenzen,Indigirka River
+147.6,70.60000000000001,Pleistocene,Lorenzen,"A.-Allaikha, ANV-II site"
+148.15,62.75,Pleistocene,Lorenzen,"Kirgilyakh Baby Mammoth site, Magadan Region"
+148.65,69.2,Pleistocene,Lorenzen,Indigirka
+148.9,66.9,Pleistocene,Lorenzen,Doyda R.
+149.05,70.55,Pleistocene,RPDE,Berelekh River
+149.70000000000002,70.55,Pleistocene,Lorenzen,Indigirka
+150.3,62.45,Pleistocene,Lorenzen,Srednekan River
+150.3,65.9,Pleistocene,Lorenzen,Sa-Sabanyt R. (left lower Zyryanka)
+150.3,71.2,Pleistocene,Lorenzen,Shandrin River
+151.65,66.2,Pleistocene,Lorenzen,Irelyakh R.
+152,66,Pleistocene,Lorenzen,"Kolyma lowland, Siberia"
+152.3,70.4,Pleistocene,Lorenzen,Sundrun
+153.45000000000002,71.15,Pleistocene,Lorenzen,Bolshoi Khomus-Yuriakh River
+153.5,70.05,Pleistocene,Lorenzen,"Kolyma lowland, Bol. Khomus-Yuryakh R., Siberia"
+153.5,71.15,Pleistocene,Lorenzen,"Loc. 88LB, Left bank of the Bolshoi Khomus-Yuriakh River"
+154.70000000000002,69.3,Pleistocene,Lorenzen,"Alazeya, Sergeev Ruchey"
+154.95000000000002,69.35000000000001,Pleistocene,Lorenzen,"Omoloy R., Yana Lowland"
+155,69.4,Pleistocene,Lorenzen,Alazeya R.
+156,69.05,Pleistocene,Lorenzen,Bolshaya Chukochya River
+156.8,70.5,Pleistocene,Lorenzen,Kuropatochya Bol.  R.
+157.65,68.2,Pleistocene,Lorenzen,Kolyma River
+157.65,69.75,Pleistocene,Lorenzen,"Chukochya Bol. R., Loc. N 39"
+158.25,68.65,Pleistocene,Lorenzen,"Yakutia, Kolyma"
+158.3,68.45,Pleistocene,Lorenzen,Kirgilyakh River
+158.70000000000002,68.7,Pleistocene,Lorenzen,Ust'-Omolon
+158.9,70.55,Pleistocene & Holocene,Lorenzen,"Sibiria, Yakutien"
+159,55,Pleistocene,Lorenzen,"Kamchatka River, Polovinka"
+159.15,68.65,Pleistocene,Lorenzen,Duvannyy Yar
+160.8,67.60000000000001,Pleistocene,Lorenzen,Khetachan Creek mine
+161.10000000000002,59.7,Pleistocene,Lorenzen,Galgan I archeological site. NW of Kamchatka Peninsula
+161.5,68.35000000000001,Pleistocene,Lorenzen,Maly Anui River
+161.65,68.7,Pleistocene,Lorenzen,Drevniy Gold Field
+161.65,68.75,Pleistocene,Lorenzen,Cherskiy Town
+161.70000000000002,68.3,Pleistocene,Lorenzen,Krasivoye
+161.9,68.25,Pleistocene,Lorenzen,Molotkovskiy Kamen'
+162.15,68,Pleistocene,Lorenzen,Maly Anui River
+164.8,69.60000000000001,Pleistocene,Lorenzen,Keinguveem River
+166.5,69.2,Pleistocene,Lorenzen,"Rauchua R., lower course, Rauchua"
+170,66.3,Pleistocene,Lorenzen,Chukotskiy Nos Cape
+171,65,Pleistocene,Lorenzen,Mayn River
+171.20000000000002,64.75,Pleistocene,Lorenzen,Main Yar
+172.8,65.10000000000001,Pleistocene,Lorenzen,"Anadyr' Region, Otrozhniy Mine"
+176,65,Pleistocene,Lorenzen,"Anadyr' Lowland, Anadyr'"
+179.45000000000002,71.25,Pleistocene,Lorenzen,Wrangel Island
+181,71,Pleistocene,Lorenzen,Wrangel Island

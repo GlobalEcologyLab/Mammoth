@@ -1,0 +1,6 @@
+Metadata:
+x_rounded: longitude rounded to 0.05 grid
+y_rounded: latitude rounded to 0.05 grid
+Epoch: Pleistocene, Holocene, or a mix of Pleistocene and Holocene fossils found at the site
+Database: CARD  = Canadian Archaeological Radiocarbon Database, EUROEVOL = Cultural Evolution of Neolithic Europe project, Lorenzen = Lorenzen et al. 2011, PACEA = PACEA Geo-referenced Radiocarbon Database, RPDE = Radiocarbon Paleolithic Europe database, Stage 3 = Cambridge Stage 3 project
+Site: Name of the dig site
