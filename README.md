@@ -1,5 +1,7 @@
 # Process-explicit models reveal pathway to extinction for woolly mammoth using pattern-oriented validation
 
+Authors: Stuart C Brown, Sean Haythorne, Damien A Fordham.
+
 This respository contains the `R` code and some example data (for 10 unique niche samples) to run the Mammoth model `paleopop` simulations.
 
 In order to run the example simulations, `paleopop v 1.0.0` must be installed. `paleopop v 1.0.0` is packaged in this respository and the code checks to make sure it is installed. If a newer version is installed, it is reverted to v 1.0.0 due to code-breaking changes introduced in later versions.
