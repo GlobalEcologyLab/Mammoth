@@ -16,7 +16,7 @@ The code has a number of package dependencies listed below:
 - "raster", min version = "2.8.19"
 - "sf", min version = "0.7.7"
 
-The script checks the above dependencies are advises if a newer version of a package is required. If using `sf > 1.0.0` please set `sf_use_s2` to `FALSE`.
+The script checks the above dependencies and advises if a newer version of a package is required. If using `sf > 1.0.0` please set `sf_use_s2` to `FALSE`.
 
 The scripts are designed to run in parallel across *n* sessions - please set *n* accordingly. For a guide, using 95 cores on a workstation uses ~ 90GB RAM to run the example simulations. Example simulations run in approximately 3 minutes.
 
@@ -35,7 +35,7 @@ All outputs are saved in the `results/` directory.
 
 The second script also produces plots of temporal abundance for the example simulations, and creates maps of extirpation time and the difference in extirpation time for a scenario run with and without human harvesting.
 
-All niche samples are available on reasonable request from Damien A Fordham (damien.fordham@adelaide.edu.au).
+Additional niche samples are available on reasonable request.
 
 Additionally, scripts found in `extras/` directory can be used to recreate the sampling effort map in the supporting information of the main manuscript.
 
