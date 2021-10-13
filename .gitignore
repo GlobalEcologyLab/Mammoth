@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# ignore output files in results dir
+/results/*
+
+# ignore MultiSimulationManager (written after mammoth_full.R is run)
+data/MultiSimulationManager.RDS
